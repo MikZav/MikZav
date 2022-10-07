@@ -45,7 +45,7 @@
   <td>В процессе</td>
 </tr> 
 <tr>
-  <td><a href = "https://stepik.org/course/76/syllabus">Основы статистики</a></td>
+  <td><a href = "https://stepik.org/course/76/syllabus">Stepik.org: Основы статистики</a></td>
   <td>Дистанционная</td>
   <td>В процессе</td>
 </tr> 
@@ -112,14 +112,6 @@
   <td>Завершен</td>
 </tr>
 
-
-<tr>
-  <td><a href = "https://github.com/MikZav/HW2_ML1_Linear_Regression">Основы статистики</a></td>
-  <td>stepik.org</td>
-  <td>рассматриваются подходы к описанию получаемых в исследованиях данных, основные методы и принципы статистического анализа, интерпретация и визуализация получаемых результатов. </td>
-  <td>В процессе</td>
-</tr> 
- 
 </table>
 </details>
 
