@@ -85,7 +85,7 @@
 </tr> 
   
 <tr>
-  <td><a href = "https://github.com/MikZav/Data-preparation-for-credit-scoring">Исследование надёжности заёмщиков</a></td>
+  <td><a href = "https://github.com/MikZav/bank_analyziz">Исследование надёжности заёмщиков</a></td>
   <td>Яндекс.Практикум</td>
   <td>Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
   <td>Завершен</td>
