@@ -174,7 +174,7 @@
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/MikZav/Gradient-boosting">Прогнозирование цен на автомобили</a></td>
+  <td><a href = "https://github.com/MikZav/Project_11_Yandex_Practicum">Прогнозирование цен на автомобили</a></td>
   <td>Яндекс.Практикум</td>
   <td>На основании исторических данных необходимо разработать модель предсказывающую цены на автомобили</td>
   <td> -- </td>
