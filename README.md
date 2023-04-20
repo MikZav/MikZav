@@ -82,17 +82,6 @@
 
 </table>
 
-<tr>
-  <td><a href = "https://finodays.com/"> -- </a></td>
-  <td>--</td>
- <td>--</td>
-  <td> --</td>
-  <td><a href = "https://github.com/MikZav/maketing_recomendation_service">--</a></td>
-</tr> 
- 
-</table>
-
-
 ## Аналитика:
 <details open>
   <summary>Список проектов по теме</summary>
