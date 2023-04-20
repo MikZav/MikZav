@@ -55,6 +55,7 @@
 
 # Сертификаты:
  - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/MikZav/MikZav/blob/main/certificate.pdf)/[EN](https://github.com/MikZav/MikZav/blob/main/certificate_en.pdf)
+ - Курсы GetCourse: администрирование платформы [RUS](https://github.com/MikZav/MikZav/blob/main/certificate.pdf)
 # Курсы:
 <table>
 <tr>
