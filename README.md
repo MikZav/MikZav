@@ -66,12 +66,17 @@
 <tr>
   <td><a href = "https://practicum.yandex.ru/data-scientist/">Яндекс.Практикум: Специалист по Data Science</a></td>
   <td>Дистанционная</td>
-  <td>Завершен</td>
+  <td>Завершен 10.04.23</td>
 </tr> 
 <tr>
   <td><a href = "https://stepik.org/course/76/syllabus">Stepik.org: Основы статистики</a></td>
   <td>Дистанционная</td>
   <td>В процессе</td>
+</tr>
+ <tr>
+  <td><a href = "https://getcourse.ru/learn">Курсы GetCourse</a></td>
+  <td>Дистанционная</td>
+  <td>Завершен 21.11.19</td>
 </tr> 
 
 </table>
