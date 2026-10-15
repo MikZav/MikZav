@@ -26,7 +26,8 @@
 
 - Проводим онлайн-трансляции городских соревнований (OBS → VK)
 - Разработал **веб-титровалку** для эфира: операторская панель, графика участников, афиши и спонсорский модуль, которые подключаются в OBS как browser source
-- Хостинг проекта: Docker Compose (Caddy, Python-бэкенд, PHP, PostgreSQL), автоматический HTTPS
+- Платформа: Django + PostgreSQL, онлайн-оплата ЮKassa, страница съёмочной команды, пульт эфира с партнёрской рекламой
+- Инфраструктура: Docker Compose (Caddy, Gunicorn, PHP, PostgreSQL) на VPS, автоматический HTTPS, CI на GitHub Actions (тесты, миграции, сборка образов), деплой одной командой с бэкапом БД
 - Автоматизация пост-продакшна: нарезка записи эфира по участникам
 
 ---
@@ -49,6 +50,6 @@
 
 **Сети:** iptables, policy routing, VPN (Xray, sing-box)
 
-**Git:** Git, GitHub (PR workflow)
+**Git и CI:** Git, GitHub (PR workflow), GitHub Actions
 
-**Сейчас изучаю:** CI/CD (GitHub Actions), Ansible, Kubernetes
+**Сейчас изучаю:** Ansible, Terraform, Kubernetes
