@@ -16,7 +16,7 @@
 - Сопровождение парка серверов на **Ubuntu Server 24.04**; все сервисы в **Docker Compose** с закреплёнными сетями и политиками автозапуска
 - Развернул и поддерживаю **корпоративный почтовый сервер** (Postfix, Dovecot на базе docker-mailserver, веб-почта Roundcube); HTTPS через nginx-proxy и Let's Encrypt
 - Построил **систему мониторинга**: Prometheus, Grafana, Alertmanager, node/blackbox/postfix exporters; оповещения в Bitrix24 через собственный webhook-адаптер (Python, Flask)
-- Спроектировал и разработал внутреннее веб-приложение **autozakaz** для автоматизации заказов автозапчастей (Python, FastAPI, PostgreSQL, Docker), довёл до эксплуатации вместе с отделом закупок; репозиторий на GitHub, feature-ветки и pull request'ы
+- Спроектировал и разработал внутреннее веб-приложение **autozakaz** для автоматизации заказов автозапчастей (Python, Flask, SQLAlchemy, PostgreSQL, Docker), довёл до эксплуатации вместе с руководителем профильного отдела; репозиторий на GitHub, feature-ветки и pull request'ы
 - Конфигурация мониторинга хранится в Git: изменения через pull request с ревью, дашборды Grafana в JSON, деплой скриптом
 - Автоматизировал отчётность: Python-скрипты по cron формируют Excel-отчёты из MySQL и рассылают их по почте, плюс почасовой алерт о задержках
 - Сети и безопасность: VPN-инфраструктура на **Xray / VLESS Reality** (3x-ui), маршрутизация трафика серверов через туннель с исключениями (policy routing, iptables/connmark)
@@ -54,7 +54,7 @@
 
 **Базы данных:** PostgreSQL, MySQL / MariaDB
 
-**Языки:** Python (FastAPI, Flask), Bash, SQL
+**Языки:** Python (Flask, SQLAlchemy, Django), Bash, SQL
 
 **Сети:** iptables, policy routing, VPN (Xray, sing-box)
 
